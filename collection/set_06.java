@@ -2,7 +2,7 @@ package collection;
 
 import java.util.LinkedList;
 
-public class set_o6 {
+public class set_06 {
     public static void main(String[] args) {
         // 构建集合对象
         LinkedList<String> list = new LinkedList<>();
